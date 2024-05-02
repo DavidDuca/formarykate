@@ -163,3 +163,7 @@ body {
     outline-style: dotted;
   }
 
+  audio{
+    display:none;
+  }
+
