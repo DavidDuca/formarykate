@@ -7,3 +7,5 @@ function $(s) {
   window.addEventListener("load", (event) => {
      audio.play();
     });
+
+console.log("Hello World!");
